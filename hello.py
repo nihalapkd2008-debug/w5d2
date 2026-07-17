@@ -7,3 +7,11 @@ print(type(age))
 print(type(height))
 print(type(is_student))
 
+product_name = "Laptop"
+product_price = 55000
+product_rating = 4.5
+is_available = True
+print(product_name)
+print(product_price)
+print(product_rating)
+print(is_available)
